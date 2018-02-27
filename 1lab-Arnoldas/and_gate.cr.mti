@@ -1,0 +1,29 @@
+C:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_tb
+-- Compiling architecture behave of and_gate_tb
+
+} {} {}} C:/Users/Studentas/Desktop/1lab-Arnoldas/or_gate.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/Studentas/Desktop/1lab-Arnoldas/or_gate.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate
+-- Compiling architecture rtl of or_gate
+** Error: C:/Users/Studentas/Desktop/1lab-Arnoldas/or_gate.vhd(16): Illegal target for signal assignment.
+** Error: C:/Users/Studentas/Desktop/1lab-Arnoldas/or_gate.vhd(16): (vcom-1136) Unknown identifier "or_result".
+
+** Error: C:/Users/Studentas/Desktop/1lab-Arnoldas/or_gate.vhd(17): VHDL Compiler exiting
+
+} {8.0 10.0 11.0 12.0} {}} C:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture rtl of and_gate
+
+} {} {}}

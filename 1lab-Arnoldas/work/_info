@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Studentas/Documents/hello
+Eand_gate
+Z0 w1519729239
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Studentas/Desktop/1lab-Arnoldas
+Z4 8C:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate.vhd
+Z5 FC:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate.vhd
+l0
+L4
+Vl0iZXN5=T]4o>aL>WUYz80
+!s100 RPm?=dAf4RjUeHI3eFcMi2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1519731129
+!i10b 1
+Z8 !s108 1519731129.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate.vhd|
+Z10 !s107 C:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Artl
+R1
+R2
+DEx4 work 8 and_gate 0 22 l0iZXN5=T]4o>aL>WUYz80
+l14
+L12
+V35b9J8K]?3cCP6;OQ<[4o0
+!s100 4GWB1h@:cQXNK9GWGLB_I2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eand_gate_tb
+Z13 w1519729198
+R1
+R2
+R3
+Z14 8C:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate_tb.vhd
+Z15 FC:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate_tb.vhd
+l0
+L4
+V6@XTiUP^UAbzgQliOoQ]i2
+!s100 9SASH?ZdNXc5<eK`=d0Y33
+R6
+32
+Z16 !s110 1519731128
+!i10b 1
+Z17 !s108 1519731128.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate_tb.vhd|
+Z19 !s107 C:/Users/Studentas/Desktop/1lab-Arnoldas/and_gate_tb.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 11 and_gate_tb 0 22 6@XTiUP^UAbzgQliOoQ]i2
+l19
+L7
+V8QkZ5X?@ei4GCLD=VcAmE1
+!s100 f=mTY4DkD14hgXf6C6Oz^1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Eor_gate
+Z20 w1519731007
+R1
+R2
+R3
+Z21 8C:/Users/Studentas/Desktop/1lab-Arnoldas/or_gate.vhd
+Z22 FC:/Users/Studentas/Desktop/1lab-Arnoldas/or_gate.vhd
+l0
+L4
+Vmz@TbQImYj9hQ3^?J>@hz2
+!s100 KT87;C3]40<9lX[Gl=ddZ0
+R6
+32
+R7
+!i10b 1
+R8
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Studentas/Desktop/1lab-Arnoldas/or_gate.vhd|
+!s107 C:/Users/Studentas/Desktop/1lab-Arnoldas/or_gate.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+DEx4 work 7 or_gate 0 22 mz@TbQImYj9hQ3^?J>@hz2
+l14
+L12
+VZN7T794Z`R^gaKl^mR>0a2
+!s100 TjjWfo]@hdTcS_X4z2^273
+R6
+32
+!s110 1519730464
+!i10b 1
+!s108 1519730463.000000
+R23
+!s107 C:/Users/Studentas/Desktop/1lab-Arnoldas/or_gate.vhd|
+!i113 1
+R11
+R12
